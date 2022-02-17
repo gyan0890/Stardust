@@ -1,0 +1,4 @@
+search_tweets_v2:
+  endpoint: https://api.twitter.com/2/tweets/search/recent
+  consumer_key: jizjxBQGMZedF7xKv2WTRkPUL
+  consumer_secret: oziu6xqVS8MpuJrEA5HM9gh12igjF2C6BNilbVgD2YtT0L9lY7

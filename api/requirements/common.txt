@@ -1,0 +1,10 @@
+flask
+gunicorn
+requests
+flask-restx
+flask-cors
+searchtweets-v2
+Flask-Caching
+redis
+nltk
+pickle-mixin
