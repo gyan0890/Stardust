@@ -1,10 +1,11 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
+from api.errors.exceptions import GenericError
 
 class Covalent:
     def __init__(self):
-        self.market_url = "https://api.covalenthq.com/v1/CHAIN_ID/nft_market/?page-size=100000&key=ckey_7e1dbfa2240d44328403b6f78bd"
+        self.market_url = "https://api.covalenthq.com/v1/CHAIN_ID/nft_market/?quote-currency=USD&format=JSON&page-size=100000&key=ckey_7e1dbfa2240d44328403b6f78bd"
         self.collection_url = "https://api.covalenthq.com/v1/CHAIN_ID/nft_market/collection/COLLECTION_ADDRESS/?from=2021-01-01&key=ckey_7e1dbfa2240d44328403b6f78bd"
         self.number_token_ids = "https://api.covalenthq.com/v1/CHAIN_ID/tokens/COLLECTION_ADDRESS/nft_token_ids/?key=ckey_7e1dbfa2240d44328403b6f78bd"
         self.max_workers = cpu_count()
@@ -41,6 +42,9 @@ class Covalent:
                     "quote_currency": result["quote_currency"],
                     "unique_token_ids_sold_count_alltime": result["unique_token_ids_sold_count_alltime"],
                 }
+        
+        # If collection address not found, raise error
+        raise GenericError(f"Collection address not found")
 
     def get_historical_collection(self, chain_id, collection_address):
         url = self.collection_url.replace("CHAIN_ID", chain_id).replace("COLLECTION_ADDRESS", collection_address)
