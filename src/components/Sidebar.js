@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
 
 function Sidebar() {
 	const [currentAccount, setCurrentAccount] = useState()
+	const [active, setActive] = useState(1) //1-dashboard, 2-submit, 3- claim
 
 	useEffect(() => {
 		checkWallet()
@@ -55,18 +56,36 @@ function Sidebar() {
 				Stardust✧
 			</div>
 			<div className='mt-10 space-y-3'>
-				<Link to='/'>
-					<div className='border-b-2 p-2 cursor-pointer active:border-l-4 active:border-blue-500 active:border-b-0'>
+				<Link to='/' onClick={() => setActive(1)}>
+					<div
+						className={`sideDef ${
+							active == 1
+								? 'border-b-0 border-l-4 border-blue-600 bg-purple-200 rounded-xl transition-colors duration-150'
+								: ''
+						}`}
+					>
 						Dashboard
 					</div>
 				</Link>
-				<Link to='/submit-nft'>
-					<div className='border-b-2 p-2 cursor-pointer'>
+				<Link to='/submit-nft' onClick={() => setActive(2)}>
+					<div
+						className={`sideDef ${
+							active == 2
+								? 'border-b-0 border-l-4 border-blue-600 bg-purple-200 rounded-xl transition-colors duration-150'
+								: ''
+						}`}
+					>
 						Submit nft
 					</div>
 				</Link>
-				<Link to='/claim-nft'>
-					<div className='border-b-2 p-2 cursor-pointer'>
+				<Link to='/claim-nft' onClick={() => setActive(3)}>
+					<div
+						className={`sideDef ${
+							active == 3
+								? 'border-b-0 border-l-4 border-blue-600 bg-purple-200 rounded-xl transition-colors duration-150'
+								: ''
+						}`}
+					>
 						Claim nft
 					</div>
 				</Link>

@@ -44,7 +44,7 @@ function SubmitNft() {
 			await tx1.wait()
 			if (tx1) {
 				console.log('approved')
-				setLoadingMsg('Approved')
+				setLoadingMsg('Approved, hold on for other transactions')
 				//step 2 submit nft to stardust
 				let tx2 = await stardustContract.depositNftPool(
 					nftContractAddr,
@@ -73,6 +73,7 @@ function SubmitNft() {
 		} catch (err) {
 			console.log(err)
 			setLoading(false)
+			setLoadingMsg('Daya, kuch toh gadbad hai')
 		}
 	}
 	return (

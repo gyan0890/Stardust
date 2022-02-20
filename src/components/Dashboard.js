@@ -15,7 +15,7 @@ import {
 import defaultData from '../defaultResp.json'
 
 function Dashboard() {
-	let sentimentUrl = 'http://54.200.253.193:8080/sentiment/text?text='
+	let sentimentUrl = 'http://34.211.151.159:8080/sentiment/text?text='
 	let nftPriceUrl =
 		'http://54.200.253.193:8080/nft/collection?chain_id=1&collection_address=0xd07dc4262bcdbf85190c01c996b4c06a461d2430'
 
@@ -58,7 +58,7 @@ function Dashboard() {
 		let chainId = e.target[0].value
 		axios
 			.get(
-				'http://54.200.253.193:8080/nft/collection?chain_id=' +
+				'http://34.211.151.159:8080/nft/collection?chain_id=' +
 					chainId +
 					'&collection_address=' +
 					contractSearch

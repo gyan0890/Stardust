@@ -6,4 +6,7 @@
 	.inp {
 		@apply bg-transparent border-2 border-white outline-none p-2 placeholder:text-gray-300 text-white font-semibold rounded-xl;
 	}
+	.sideDef {
+		@apply border-b-2 p-2 cursor-pointer;
+	}
 }

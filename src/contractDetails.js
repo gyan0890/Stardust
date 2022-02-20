@@ -1,37 +1,7 @@
 export const starDustContractAddress =
-	'0x872Cf5141B083D6B5092eaD2EBf74332d0915625'
+	'0xd12Ed91375eBc57D3c8A7C8992008d580C64e924'
 //nft collection address will given by user
 export const starDustABI = [
-	{
-		inputs: [
-			{
-				internalType: 'uint256',
-				name: '_maxFractions',
-				type: 'uint256',
-			},
-		],
-		stateMutability: 'nonpayable',
-		type: 'constructor',
-	},
-	{
-		anonymous: false,
-		inputs: [
-			{
-				indexed: true,
-				internalType: 'address',
-				name: '',
-				type: 'address',
-			},
-			{
-				indexed: true,
-				internalType: 'address',
-				name: '',
-				type: 'address',
-			},
-		],
-		name: 'Launch',
-		type: 'event',
-	},
 	{
 		inputs: [
 			{
@@ -115,6 +85,36 @@ export const starDustABI = [
 		type: 'function',
 	},
 	{
+		inputs: [
+			{
+				internalType: 'uint256',
+				name: '_maxFractions',
+				type: 'uint256',
+			},
+		],
+		stateMutability: 'nonpayable',
+		type: 'constructor',
+	},
+	{
+		anonymous: false,
+		inputs: [
+			{
+				indexed: true,
+				internalType: 'address',
+				name: '',
+				type: 'address',
+			},
+			{
+				indexed: true,
+				internalType: 'address',
+				name: '',
+				type: 'address',
+			},
+		],
+		name: 'Launch',
+		type: 'event',
+	},
+	{
 		inputs: [],
 		name: 'getAllCollections',
 		outputs: [
@@ -166,6 +166,40 @@ export const starDustABI = [
 			},
 		],
 		stateMutability: 'view',
+		type: 'function',
+	},
+	{
+		inputs: [
+			{
+				internalType: 'address',
+				name: 'operator',
+				type: 'address',
+			},
+			{
+				internalType: 'address',
+				name: 'from',
+				type: 'address',
+			},
+			{
+				internalType: 'uint256',
+				name: 'tokenId',
+				type: 'uint256',
+			},
+			{
+				internalType: 'bytes',
+				name: 'data',
+				type: 'bytes',
+			},
+		],
+		name: 'onERC721Received',
+		outputs: [
+			{
+				internalType: 'bytes4',
+				name: '',
+				type: 'bytes4',
+			},
+		],
+		stateMutability: 'pure',
 		type: 'function',
 	},
 ]
