@@ -1,0 +1,1948 @@
+{
+	"collection_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+	"collection_name": "BoredApeYachtClub",
+	"collection_ticker_symbol": "BAYC",
+	"current_7day_floor_price": 302272.75,
+	"floor_price_hist": [
+		{
+			"floor_price_quote_7d": 302675.66,
+			"opening_date": "2022-02-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 337036.44,
+			"opening_date": "2022-02-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 343718.94,
+			"opening_date": "2022-02-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 328023.25,
+			"opening_date": "2022-02-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 315321.9,
+			"opening_date": "2022-02-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 317036.53,
+			"opening_date": "2022-02-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 324871.75,
+			"opening_date": "2022-02-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 326217.4,
+			"opening_date": "2022-02-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 345595.2,
+			"opening_date": "2022-02-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 361646.28,
+			"opening_date": "2022-02-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 350815.22,
+			"opening_date": "2022-02-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 351537.38,
+			"opening_date": "2022-02-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 368834.28,
+			"opening_date": "2022-02-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 390591.97,
+			"opening_date": "2022-02-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 343542.5,
+			"opening_date": "2022-02-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 330106.6,
+			"opening_date": "2022-02-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 338422.12,
+			"opening_date": "2022-02-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 331851.1,
+			"opening_date": "2022-02-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 311103.88,
+			"opening_date": "2022-01-31",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 289279.12,
+			"opening_date": "2022-01-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 260162.97,
+			"opening_date": "2022-01-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 244342.58,
+			"opening_date": "2022-01-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 234275.6,
+			"opening_date": "2022-01-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 251255.62,
+			"opening_date": "2022-01-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 244996.14,
+			"opening_date": "2022-01-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 237271.3,
+			"opening_date": "2022-01-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 242600.25,
+			"opening_date": "2022-01-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 249807.25,
+			"opening_date": "2022-01-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 276442.6,
+			"opening_date": "2022-01-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 297240.97,
+			"opening_date": "2022-01-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 291197.28,
+			"opening_date": "2022-01-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 293330.12,
+			"opening_date": "2022-01-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 303214.53,
+			"opening_date": "2022-01-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 311266.28,
+			"opening_date": "2022-01-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 312763.44,
+			"opening_date": "2022-01-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 307252.12,
+			"opening_date": "2022-01-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 303882.1,
+			"opening_date": "2022-01-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 286858.56,
+			"opening_date": "2022-01-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 266311.3,
+			"opening_date": "2022-01-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 254076.47,
+			"opening_date": "2022-01-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 258084.84,
+			"opening_date": "2022-01-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 240161.72,
+			"opening_date": "2022-01-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 259435.12,
+			"opening_date": "2022-01-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 271086.78,
+			"opening_date": "2022-01-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 290499.1,
+			"opening_date": "2022-01-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 300022.75,
+			"opening_date": "2022-01-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 302736.22,
+			"opening_date": "2022-01-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 295418.38,
+			"opening_date": "2022-01-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 271156.25,
+			"opening_date": "2022-01-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 270352.56,
+			"opening_date": "2021-12-31",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 262466.88,
+			"opening_date": "2021-12-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 264959.22,
+			"opening_date": "2021-12-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 283740.9,
+			"opening_date": "2021-12-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 263021.44,
+			"opening_date": "2021-12-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 261075.77,
+			"opening_date": "2021-12-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 273546.7,
+			"opening_date": "2021-12-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 259665.73,
+			"opening_date": "2021-12-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 241457.77,
+			"opening_date": "2021-12-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 249977.17,
+			"opening_date": "2021-12-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 231579.8,
+			"opening_date": "2021-12-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 244894.56,
+			"opening_date": "2021-12-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 241935.11,
+			"opening_date": "2021-12-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 248116.55,
+			"opening_date": "2021-12-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 257427.73,
+			"opening_date": "2021-12-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 260680.56,
+			"opening_date": "2021-12-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 257076.77,
+			"opening_date": "2021-12-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 247272.66,
+			"opening_date": "2021-12-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 264400.53,
+			"opening_date": "2021-12-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 268381.22,
+			"opening_date": "2021-12-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 239318.53,
+			"opening_date": "2021-12-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 238631.39,
+			"opening_date": "2021-12-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 259127.1,
+			"opening_date": "2021-12-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 253468.56,
+			"opening_date": "2021-12-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 243273.92,
+			"opening_date": "2021-12-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 235849.25,
+			"opening_date": "2021-12-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 230876.27,
+			"opening_date": "2021-12-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 244287.06,
+			"opening_date": "2021-12-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 243235.5,
+			"opening_date": "2021-12-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 250341.31,
+			"opening_date": "2021-12-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 257114.73,
+			"opening_date": "2021-12-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 259577.2,
+			"opening_date": "2021-11-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 245626.02,
+			"opening_date": "2021-11-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 224518.27,
+			"opening_date": "2021-11-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 229423.08,
+			"opening_date": "2021-11-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 247758.81,
+			"opening_date": "2021-11-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 250147.7,
+			"opening_date": "2021-11-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 248885.86,
+			"opening_date": "2021-11-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 248153.39,
+			"opening_date": "2021-11-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 247081.52,
+			"opening_date": "2021-11-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 249596.38,
+			"opening_date": "2021-11-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 240175.72,
+			"opening_date": "2021-11-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 224330.61,
+			"opening_date": "2021-11-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 223218.95,
+			"opening_date": "2021-11-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 217808.38,
+			"opening_date": "2021-11-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 218630.39,
+			"opening_date": "2021-11-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 216661.39,
+			"opening_date": "2021-11-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 201774.16,
+			"opening_date": "2021-11-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 194684.83,
+			"opening_date": "2021-11-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 188806.17,
+			"opening_date": "2021-11-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 174557.19,
+			"opening_date": "2021-11-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 176035.8,
+			"opening_date": "2021-11-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 175148.06,
+			"opening_date": "2021-11-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 167252.72,
+			"opening_date": "2021-11-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 168224.36,
+			"opening_date": "2021-11-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 172007.9,
+			"opening_date": "2021-11-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 176472.2,
+			"opening_date": "2021-11-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 195566.58,
+			"opening_date": "2021-11-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 192717.69,
+			"opening_date": "2021-11-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 186678.98,
+			"opening_date": "2021-11-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 187879.55,
+			"opening_date": "2021-11-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 187861.6,
+			"opening_date": "2021-10-31",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 192259.67,
+			"opening_date": "2021-10-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 191178.16,
+			"opening_date": "2021-10-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 170711.0,
+			"opening_date": "2021-10-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 165236.17,
+			"opening_date": "2021-10-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 179933.47,
+			"opening_date": "2021-10-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 186766.62,
+			"opening_date": "2021-10-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 185676.0,
+			"opening_date": "2021-10-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 182529.06,
+			"opening_date": "2021-10-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 176901.22,
+			"opening_date": "2021-10-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 192840.05,
+			"opening_date": "2021-10-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 203861.98,
+			"opening_date": "2021-10-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 183312.8,
+			"opening_date": "2021-10-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 157418.31,
+			"opening_date": "2021-10-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 163645.17,
+			"opening_date": "2021-10-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 167176.6,
+			"opening_date": "2021-10-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 159036.06,
+			"opening_date": "2021-10-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 165067.95,
+			"opening_date": "2021-10-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 145328.47,
+			"opening_date": "2021-10-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 149778.8,
+			"opening_date": "2021-10-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 142243.56,
+			"opening_date": "2021-10-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 148579.38,
+			"opening_date": "2021-10-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 152683.12,
+			"opening_date": "2021-10-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 153471.58,
+			"opening_date": "2021-10-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 165030.44,
+			"opening_date": "2021-10-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 169094.23,
+			"opening_date": "2021-10-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 170044.14,
+			"opening_date": "2021-10-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 169182.25,
+			"opening_date": "2021-10-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 171883.97,
+			"opening_date": "2021-10-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 171554.84,
+			"opening_date": "2021-10-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 151830.89,
+			"opening_date": "2021-10-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 140751.98,
+			"opening_date": "2021-09-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 120492.125,
+			"opening_date": "2021-09-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 122579.984,
+			"opening_date": "2021-09-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 128036.43,
+			"opening_date": "2021-09-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 129142.91,
+			"opening_date": "2021-09-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 126230.18,
+			"opening_date": "2021-09-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 131226.2,
+			"opening_date": "2021-09-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 152886.39,
+			"opening_date": "2021-09-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 142034.27,
+			"opening_date": "2021-09-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 140152.03,
+			"opening_date": "2021-09-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 154211.84,
+			"opening_date": "2021-09-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 170061.22,
+			"opening_date": "2021-09-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 165548.28,
+			"opening_date": "2021-09-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 170447.9,
+			"opening_date": "2021-09-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 153893.36,
+			"opening_date": "2021-09-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 147707.77,
+			"opening_date": "2021-09-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 139768.31,
+			"opening_date": "2021-09-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 146900.94,
+			"opening_date": "2021-09-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 150818.16,
+			"opening_date": "2021-09-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 141038.98,
+			"opening_date": "2021-09-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 145188.14,
+			"opening_date": "2021-09-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 154244.1,
+			"opening_date": "2021-09-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 167871.66,
+			"opening_date": "2021-09-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 186170.17,
+			"opening_date": "2021-09-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 190705.17,
+			"opening_date": "2021-09-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 191760.25,
+			"opening_date": "2021-09-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 202011.52,
+			"opening_date": "2021-09-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 206999.33,
+			"opening_date": "2021-09-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 199522.78,
+			"opening_date": "2021-09-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 198959.39,
+			"opening_date": "2021-09-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 183338.92,
+			"opening_date": "2021-08-31",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 172155.33,
+			"opening_date": "2021-08-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 152200.33,
+			"opening_date": "2021-08-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 148229.1,
+			"opening_date": "2021-08-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 114812.555,
+			"opening_date": "2021-08-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 107216.01,
+			"opening_date": "2021-08-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 95247.336,
+			"opening_date": "2021-08-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 91162.12,
+			"opening_date": "2021-08-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 84482.01,
+			"opening_date": "2021-08-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 73284.69,
+			"opening_date": "2021-08-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 69258.016,
+			"opening_date": "2021-08-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 56346.73,
+			"opening_date": "2021-08-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 51118.496,
+			"opening_date": "2021-08-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 49763.523,
+			"opening_date": "2021-08-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 56105.22,
+			"opening_date": "2021-08-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 58857.254,
+			"opening_date": "2021-08-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 62138.016,
+			"opening_date": "2021-08-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 68974.766,
+			"opening_date": "2021-08-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 66028.23,
+			"opening_date": "2021-08-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 66195.86,
+			"opening_date": "2021-08-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 70523.03,
+			"opening_date": "2021-08-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 64083.34,
+			"opening_date": "2021-08-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 54882.01,
+			"opening_date": "2021-08-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 53702.883,
+			"opening_date": "2021-08-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 47207.18,
+			"opening_date": "2021-08-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 40029.8,
+			"opening_date": "2021-08-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 37606.28,
+			"opening_date": "2021-08-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 32498.277,
+			"opening_date": "2021-08-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 25848.143,
+			"opening_date": "2021-08-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 25681.162,
+			"opening_date": "2021-08-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 25164.217,
+			"opening_date": "2021-08-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 21713.332,
+			"opening_date": "2021-07-31",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 18909.787,
+			"opening_date": "2021-07-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 19778.615,
+			"opening_date": "2021-07-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 19365.264,
+			"opening_date": "2021-07-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 19556.797,
+			"opening_date": "2021-07-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 18355.54,
+			"opening_date": "2021-07-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 18550.266,
+			"opening_date": "2021-07-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 18064.777,
+			"opening_date": "2021-07-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 17157.945,
+			"opening_date": "2021-07-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 16535.293,
+			"opening_date": "2021-07-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 14346.043,
+			"opening_date": "2021-07-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 13684.666,
+			"opening_date": "2021-07-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 13253.603,
+			"opening_date": "2021-07-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 12806.262,
+			"opening_date": "2021-07-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 12059.465,
+			"opening_date": "2021-07-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 11147.159,
+			"opening_date": "2021-07-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 10353.869,
+			"opening_date": "2021-07-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 9398.471,
+			"opening_date": "2021-07-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8843.837,
+			"opening_date": "2021-07-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 9107.82,
+			"opening_date": "2021-07-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8472.713,
+			"opening_date": "2021-07-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8380.994,
+			"opening_date": "2021-07-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 7765.8467,
+			"opening_date": "2021-07-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8028.207,
+			"opening_date": "2021-07-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8294.629,
+			"opening_date": "2021-07-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8079.7456,
+			"opening_date": "2021-07-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8209.861,
+			"opening_date": "2021-07-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8547.839,
+			"opening_date": "2021-07-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8110.9375,
+			"opening_date": "2021-07-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 9328.835,
+			"opening_date": "2021-07-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 10257.262,
+			"opening_date": "2021-07-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 12092.496,
+			"opening_date": "2021-06-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 11287.852,
+			"opening_date": "2021-06-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 11783.009,
+			"opening_date": "2021-06-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 10084.531,
+			"opening_date": "2021-06-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 10628.575,
+			"opening_date": "2021-06-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 10537.181,
+			"opening_date": "2021-06-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 9303.902,
+			"opening_date": "2021-06-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8711.673,
+			"opening_date": "2021-06-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8090.308,
+			"opening_date": "2021-06-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 9095.784,
+			"opening_date": "2021-06-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 8973.141,
+			"opening_date": "2021-06-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 7134.0303,
+			"opening_date": "2021-06-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 7048.3433,
+			"opening_date": "2021-06-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 7028.7954,
+			"opening_date": "2021-06-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 6745.3765,
+			"opening_date": "2021-06-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 6681.129,
+			"opening_date": "2021-06-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 6138.883,
+			"opening_date": "2021-06-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 5448.5645,
+			"opening_date": "2021-06-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 5579.6543,
+			"opening_date": "2021-06-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 5035.354,
+			"opening_date": "2021-06-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 5241.719,
+			"opening_date": "2021-06-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 4681.268,
+			"opening_date": "2021-06-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 4654.296,
+			"opening_date": "2021-06-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 4601.829,
+			"opening_date": "2021-06-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3854.6858,
+			"opening_date": "2021-06-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3502.4248,
+			"opening_date": "2021-06-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3420.3684,
+			"opening_date": "2021-06-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3197.3423,
+			"opening_date": "2021-06-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2925.887,
+			"opening_date": "2021-06-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2817.1233,
+			"opening_date": "2021-06-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2279.0693,
+			"opening_date": "2021-05-31",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1789.0104,
+			"opening_date": "2021-05-30",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1417.6095,
+			"opening_date": "2021-05-29",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1529.8364,
+			"opening_date": "2021-05-28",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1573.0663,
+			"opening_date": "2021-05-27",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1553.3883,
+			"opening_date": "2021-05-26",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1481.3777,
+			"opening_date": "2021-05-25",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1224.8478,
+			"opening_date": "2021-05-24",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1188.3849,
+			"opening_date": "2021-05-23",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1294.5527,
+			"opening_date": "2021-05-22",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1576.536,
+			"opening_date": "2021-05-21",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1591.7083,
+			"opening_date": "2021-05-20",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1775.0751,
+			"opening_date": "2021-05-19",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2142.3948,
+			"opening_date": "2021-05-18",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2231.418,
+			"opening_date": "2021-05-17",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2321.4634,
+			"opening_date": "2021-05-16",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2472.3738,
+			"opening_date": "2021-05-15",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2611.6123,
+			"opening_date": "2021-05-14",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2371.3027,
+			"opening_date": "2021-05-13",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2903.0142,
+			"opening_date": "2021-05-12",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2836.2847,
+			"opening_date": "2021-05-11",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3213.1196,
+			"opening_date": "2021-05-10",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3239.2432,
+			"opening_date": "2021-05-09",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 3252.7156,
+			"opening_date": "2021-05-08",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2374.5173,
+			"opening_date": "2021-05-07",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2457.416,
+			"opening_date": "2021-05-06",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2274.1628,
+			"opening_date": "2021-05-05",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2383.7903,
+			"opening_date": "2021-05-04",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 2266.425,
+			"opening_date": "2021-05-03",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 1810.524,
+			"opening_date": "2021-05-02",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 922.5717,
+			"opening_date": "2021-05-01",
+			"quote_currency": "USD"
+		},
+		{
+			"floor_price_quote_7d": 412.09818,
+			"opening_date": "2021-04-30",
+			"quote_currency": "USD"
+		}
+	],
+	"market_cap_quote": 715108290.0,
+	"max_price_quote": 3008407.0,
+	"number_nfts_in_collection": 10000,
+	"quote_currency": "USD",
+	"token_ids_sold": [
+		{ "opening_date": "2022-02-18", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2022-02-17", "unique_token_ids_sold_count_day": 7 },
+		{ "opening_date": "2022-02-16", "unique_token_ids_sold_count_day": 8 },
+		{ "opening_date": "2022-02-15", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2022-02-14", "unique_token_ids_sold_count_day": 4 },
+		{ "opening_date": "2022-02-13", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2022-02-12", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2022-02-11", "unique_token_ids_sold_count_day": 7 },
+		{ "opening_date": "2022-02-10", "unique_token_ids_sold_count_day": 10 },
+		{ "opening_date": "2022-02-09", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2022-02-08", "unique_token_ids_sold_count_day": 7 },
+		{ "opening_date": "2022-02-07", "unique_token_ids_sold_count_day": 13 },
+		{ "opening_date": "2022-02-06", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2022-02-05", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2022-02-04", "unique_token_ids_sold_count_day": 24 },
+		{ "opening_date": "2022-02-03", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2022-02-02", "unique_token_ids_sold_count_day": 14 },
+		{ "opening_date": "2022-02-01", "unique_token_ids_sold_count_day": 30 },
+		{ "opening_date": "2022-01-31", "unique_token_ids_sold_count_day": 75 },
+		{ "opening_date": "2022-01-30", "unique_token_ids_sold_count_day": 76 },
+		{ "opening_date": "2022-01-29", "unique_token_ids_sold_count_day": 58 },
+		{ "opening_date": "2022-01-28", "unique_token_ids_sold_count_day": 44 },
+		{ "opening_date": "2022-01-27", "unique_token_ids_sold_count_day": 35 },
+		{ "opening_date": "2022-01-26", "unique_token_ids_sold_count_day": 28 },
+		{ "opening_date": "2022-01-25", "unique_token_ids_sold_count_day": 41 },
+		{ "opening_date": "2022-01-24", "unique_token_ids_sold_count_day": 27 },
+		{ "opening_date": "2022-01-23", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2022-01-22", "unique_token_ids_sold_count_day": 26 },
+		{ "opening_date": "2022-01-21", "unique_token_ids_sold_count_day": 22 },
+		{ "opening_date": "2022-01-20", "unique_token_ids_sold_count_day": 26 },
+		{ "opening_date": "2022-01-19", "unique_token_ids_sold_count_day": 13 },
+		{ "opening_date": "2022-01-18", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2022-01-17", "unique_token_ids_sold_count_day": 9 },
+		{ "opening_date": "2022-01-16", "unique_token_ids_sold_count_day": 28 },
+		{ "opening_date": "2022-01-15", "unique_token_ids_sold_count_day": 39 },
+		{ "opening_date": "2022-01-14", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2022-01-13", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2022-01-12", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2022-01-11", "unique_token_ids_sold_count_day": 22 },
+		{ "opening_date": "2022-01-10", "unique_token_ids_sold_count_day": 32 },
+		{ "opening_date": "2022-01-09", "unique_token_ids_sold_count_day": 43 },
+		{ "opening_date": "2022-01-08", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2022-01-07", "unique_token_ids_sold_count_day": 28 },
+		{ "opening_date": "2022-01-06", "unique_token_ids_sold_count_day": 24 },
+		{ "opening_date": "2022-01-05", "unique_token_ids_sold_count_day": 23 },
+		{ "opening_date": "2022-01-04", "unique_token_ids_sold_count_day": 24 },
+		{ "opening_date": "2022-01-03", "unique_token_ids_sold_count_day": 50 },
+		{ "opening_date": "2022-01-02", "unique_token_ids_sold_count_day": 61 },
+		{ "opening_date": "2022-01-01", "unique_token_ids_sold_count_day": 85 },
+		{ "opening_date": "2021-12-31", "unique_token_ids_sold_count_day": 32 },
+		{ "opening_date": "2021-12-30", "unique_token_ids_sold_count_day": 32 },
+		{ "opening_date": "2021-12-29", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-12-28", "unique_token_ids_sold_count_day": 27 },
+		{ "opening_date": "2021-12-27", "unique_token_ids_sold_count_day": 23 },
+		{ "opening_date": "2021-12-26", "unique_token_ids_sold_count_day": 27 },
+		{ "opening_date": "2021-12-25", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-12-24", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-12-23", "unique_token_ids_sold_count_day": 22 },
+		{ "opening_date": "2021-12-22", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-12-21", "unique_token_ids_sold_count_day": 14 },
+		{ "opening_date": "2021-12-20", "unique_token_ids_sold_count_day": 7 },
+		{ "opening_date": "2021-12-19", "unique_token_ids_sold_count_day": 14 },
+		{ "opening_date": "2021-12-18", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2021-12-17", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2021-12-16", "unique_token_ids_sold_count_day": 22 },
+		{ "opening_date": "2021-12-15", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-12-14", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-12-13", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-12-12", "unique_token_ids_sold_count_day": 10 },
+		{ "opening_date": "2021-12-11", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-12-10", "unique_token_ids_sold_count_day": 22 },
+		{ "opening_date": "2021-12-09", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-12-08", "unique_token_ids_sold_count_day": 8 },
+		{ "opening_date": "2021-12-07", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-12-06", "unique_token_ids_sold_count_day": 13 },
+		{ "opening_date": "2021-12-05", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-12-04", "unique_token_ids_sold_count_day": 30 },
+		{ "opening_date": "2021-12-03", "unique_token_ids_sold_count_day": 33 },
+		{ "opening_date": "2021-12-02", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-12-01", "unique_token_ids_sold_count_day": 14 },
+		{ "opening_date": "2021-11-30", "unique_token_ids_sold_count_day": 14 },
+		{ "opening_date": "2021-11-29", "unique_token_ids_sold_count_day": 26 },
+		{ "opening_date": "2021-11-28", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-11-27", "unique_token_ids_sold_count_day": 10 },
+		{ "opening_date": "2021-11-26", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-11-25", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2021-11-24", "unique_token_ids_sold_count_day": 7 },
+		{ "opening_date": "2021-11-23", "unique_token_ids_sold_count_day": 7 },
+		{ "opening_date": "2021-11-22", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-11-21", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-11-20", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-11-19", "unique_token_ids_sold_count_day": 25 },
+		{ "opening_date": "2021-11-18", "unique_token_ids_sold_count_day": 51 },
+		{ "opening_date": "2021-11-17", "unique_token_ids_sold_count_day": 59 },
+		{
+			"opening_date": "2021-11-16",
+			"unique_token_ids_sold_count_day": 100
+		},
+		{ "opening_date": "2021-11-15", "unique_token_ids_sold_count_day": 72 },
+		{ "opening_date": "2021-11-14", "unique_token_ids_sold_count_day": 75 },
+		{
+			"opening_date": "2021-11-13",
+			"unique_token_ids_sold_count_day": 111
+		},
+		{ "opening_date": "2021-11-12", "unique_token_ids_sold_count_day": 40 },
+		{ "opening_date": "2021-11-11", "unique_token_ids_sold_count_day": 24 },
+		{ "opening_date": "2021-11-10", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2021-11-09", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-11-08", "unique_token_ids_sold_count_day": 22 },
+		{ "opening_date": "2021-11-07", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-11-06", "unique_token_ids_sold_count_day": 23 },
+		{ "opening_date": "2021-11-05", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-11-04", "unique_token_ids_sold_count_day": 12 },
+		{ "opening_date": "2021-11-03", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2021-11-02", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-11-01", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2021-10-31", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-10-30", "unique_token_ids_sold_count_day": 10 },
+		{ "opening_date": "2021-10-29", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-10-28", "unique_token_ids_sold_count_day": 20 },
+		{ "opening_date": "2021-10-27", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2021-10-26", "unique_token_ids_sold_count_day": 12 },
+		{ "opening_date": "2021-10-25", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-10-24", "unique_token_ids_sold_count_day": 9 },
+		{ "opening_date": "2021-10-23", "unique_token_ids_sold_count_day": 35 },
+		{ "opening_date": "2021-10-22", "unique_token_ids_sold_count_day": 28 },
+		{ "opening_date": "2021-10-21", "unique_token_ids_sold_count_day": 31 },
+		{ "opening_date": "2021-10-20", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-10-19", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-10-18", "unique_token_ids_sold_count_day": 10 },
+		{ "opening_date": "2021-10-17", "unique_token_ids_sold_count_day": 8 },
+		{ "opening_date": "2021-10-16", "unique_token_ids_sold_count_day": 8 },
+		{ "opening_date": "2021-10-15", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-10-14", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-10-13", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-10-12", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-10-11", "unique_token_ids_sold_count_day": 9 },
+		{ "opening_date": "2021-10-10", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-10-09", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-10-08", "unique_token_ids_sold_count_day": 30 },
+		{ "opening_date": "2021-10-07", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-10-06", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-10-05", "unique_token_ids_sold_count_day": 23 },
+		{ "opening_date": "2021-10-04", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-10-03", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-10-02", "unique_token_ids_sold_count_day": 27 },
+		{ "opening_date": "2021-10-01", "unique_token_ids_sold_count_day": 20 },
+		{ "opening_date": "2021-09-30", "unique_token_ids_sold_count_day": 25 },
+		{ "opening_date": "2021-09-29", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-09-28", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-09-27", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2021-09-26", "unique_token_ids_sold_count_day": 25 },
+		{ "opening_date": "2021-09-25", "unique_token_ids_sold_count_day": 12 },
+		{ "opening_date": "2021-09-24", "unique_token_ids_sold_count_day": 21 },
+		{ "opening_date": "2021-09-23", "unique_token_ids_sold_count_day": 16 },
+		{ "opening_date": "2021-09-22", "unique_token_ids_sold_count_day": 12 },
+		{ "opening_date": "2021-09-21", "unique_token_ids_sold_count_day": 15 },
+		{ "opening_date": "2021-09-20", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-09-19", "unique_token_ids_sold_count_day": 8 },
+		{ "opening_date": "2021-09-18", "unique_token_ids_sold_count_day": 14 },
+		{ "opening_date": "2021-09-17", "unique_token_ids_sold_count_day": 18 },
+		{ "opening_date": "2021-09-16", "unique_token_ids_sold_count_day": 43 },
+		{ "opening_date": "2021-09-15", "unique_token_ids_sold_count_day": 41 },
+		{ "opening_date": "2021-09-14", "unique_token_ids_sold_count_day": 19 },
+		{ "opening_date": "2021-09-13", "unique_token_ids_sold_count_day": 11 },
+		{ "opening_date": "2021-09-12", "unique_token_ids_sold_count_day": 13 },
+		{ "opening_date": "2021-09-11", "unique_token_ids_sold_count_day": 12 },
+		{ "opening_date": "2021-09-10", "unique_token_ids_sold_count_day": 49 },
+		{ "opening_date": "2021-09-09", "unique_token_ids_sold_count_day": 28 },
+		{ "opening_date": "2021-09-08", "unique_token_ids_sold_count_day": 17 },
+		{ "opening_date": "2021-09-07", "unique_token_ids_sold_count_day": 20 },
+		{ "opening_date": "2021-09-06", "unique_token_ids_sold_count_day": 42 },
+		{ "opening_date": "2021-09-05", "unique_token_ids_sold_count_day": 76 },
+		{ "opening_date": "2021-09-04", "unique_token_ids_sold_count_day": 20 },
+		{ "opening_date": "2021-09-03", "unique_token_ids_sold_count_day": 41 },
+		{ "opening_date": "2021-09-02", "unique_token_ids_sold_count_day": 46 },
+		{ "opening_date": "2021-09-01", "unique_token_ids_sold_count_day": 59 },
+		{ "opening_date": "2021-08-31", "unique_token_ids_sold_count_day": 48 },
+		{ "opening_date": "2021-08-30", "unique_token_ids_sold_count_day": 77 },
+		{
+			"opening_date": "2021-08-29",
+			"unique_token_ids_sold_count_day": 119
+		},
+		{
+			"opening_date": "2021-08-28",
+			"unique_token_ids_sold_count_day": 274
+		},
+		{ "opening_date": "2021-08-27", "unique_token_ids_sold_count_day": 56 },
+		{ "opening_date": "2021-08-26", "unique_token_ids_sold_count_day": 58 },
+		{ "opening_date": "2021-08-25", "unique_token_ids_sold_count_day": 69 },
+		{
+			"opening_date": "2021-08-24",
+			"unique_token_ids_sold_count_day": 116
+		},
+		{
+			"opening_date": "2021-08-23",
+			"unique_token_ids_sold_count_day": 161
+		},
+		{ "opening_date": "2021-08-22", "unique_token_ids_sold_count_day": 57 },
+		{
+			"opening_date": "2021-08-21",
+			"unique_token_ids_sold_count_day": 236
+		},
+		{
+			"opening_date": "2021-08-20",
+			"unique_token_ids_sold_count_day": 155
+		},
+		{ "opening_date": "2021-08-19", "unique_token_ids_sold_count_day": 33 },
+		{ "opening_date": "2021-08-18", "unique_token_ids_sold_count_day": 32 },
+		{ "opening_date": "2021-08-17", "unique_token_ids_sold_count_day": 28 },
+		{ "opening_date": "2021-08-16", "unique_token_ids_sold_count_day": 39 },
+		{ "opening_date": "2021-08-15", "unique_token_ids_sold_count_day": 53 },
+		{ "opening_date": "2021-08-14", "unique_token_ids_sold_count_day": 59 },
+		{ "opening_date": "2021-08-13", "unique_token_ids_sold_count_day": 38 },
+		{ "opening_date": "2021-08-12", "unique_token_ids_sold_count_day": 42 },
+		{ "opening_date": "2021-08-11", "unique_token_ids_sold_count_day": 55 },
+		{ "opening_date": "2021-08-10", "unique_token_ids_sold_count_day": 56 },
+		{ "opening_date": "2021-08-09", "unique_token_ids_sold_count_day": 61 },
+		{ "opening_date": "2021-08-08", "unique_token_ids_sold_count_day": 75 },
+		{ "opening_date": "2021-08-07", "unique_token_ids_sold_count_day": 88 },
+		{
+			"opening_date": "2021-08-06",
+			"unique_token_ids_sold_count_day": 110
+		},
+		{
+			"opening_date": "2021-08-05",
+			"unique_token_ids_sold_count_day": 112
+		},
+		{
+			"opening_date": "2021-08-04",
+			"unique_token_ids_sold_count_day": 365
+		},
+		{
+			"opening_date": "2021-08-03",
+			"unique_token_ids_sold_count_day": 195
+		},
+		{ "opening_date": "2021-08-02", "unique_token_ids_sold_count_day": 93 },
+		{
+			"opening_date": "2021-08-01",
+			"unique_token_ids_sold_count_day": 247
+		},
+		{
+			"opening_date": "2021-07-31",
+			"unique_token_ids_sold_count_day": 152
+		},
+		{ "opening_date": "2021-07-30", "unique_token_ids_sold_count_day": 56 },
+		{ "opening_date": "2021-07-29", "unique_token_ids_sold_count_day": 24 },
+		{ "opening_date": "2021-07-28", "unique_token_ids_sold_count_day": 36 },
+		{ "opening_date": "2021-07-27", "unique_token_ids_sold_count_day": 40 },
+		{ "opening_date": "2021-07-26", "unique_token_ids_sold_count_day": 47 },
+		{ "opening_date": "2021-07-25", "unique_token_ids_sold_count_day": 41 },
+		{ "opening_date": "2021-07-24", "unique_token_ids_sold_count_day": 30 },
+		{ "opening_date": "2021-07-23", "unique_token_ids_sold_count_day": 39 },
+		{ "opening_date": "2021-07-22", "unique_token_ids_sold_count_day": 31 },
+		{ "opening_date": "2021-07-21", "unique_token_ids_sold_count_day": 51 },
+		{ "opening_date": "2021-07-20", "unique_token_ids_sold_count_day": 53 },
+		{ "opening_date": "2021-07-19", "unique_token_ids_sold_count_day": 64 },
+		{
+			"opening_date": "2021-07-18",
+			"unique_token_ids_sold_count_day": 128
+		},
+		{
+			"opening_date": "2021-07-17",
+			"unique_token_ids_sold_count_day": 291
+		},
+		{
+			"opening_date": "2021-07-16",
+			"unique_token_ids_sold_count_day": 289
+		},
+		{
+			"opening_date": "2021-07-15",
+			"unique_token_ids_sold_count_day": 278
+		},
+		{
+			"opening_date": "2021-07-14",
+			"unique_token_ids_sold_count_day": 153
+		},
+		{
+			"opening_date": "2021-07-13",
+			"unique_token_ids_sold_count_day": 167
+		},
+		{
+			"opening_date": "2021-07-12",
+			"unique_token_ids_sold_count_day": 155
+		},
+		{
+			"opening_date": "2021-07-11",
+			"unique_token_ids_sold_count_day": 148
+		},
+		{ "opening_date": "2021-07-10", "unique_token_ids_sold_count_day": 59 },
+		{ "opening_date": "2021-07-09", "unique_token_ids_sold_count_day": 61 },
+		{ "opening_date": "2021-07-08", "unique_token_ids_sold_count_day": 47 },
+		{ "opening_date": "2021-07-07", "unique_token_ids_sold_count_day": 49 },
+		{ "opening_date": "2021-07-06", "unique_token_ids_sold_count_day": 48 },
+		{ "opening_date": "2021-07-05", "unique_token_ids_sold_count_day": 46 },
+		{ "opening_date": "2021-07-04", "unique_token_ids_sold_count_day": 49 },
+		{ "opening_date": "2021-07-03", "unique_token_ids_sold_count_day": 34 },
+		{ "opening_date": "2021-07-02", "unique_token_ids_sold_count_day": 29 },
+		{ "opening_date": "2021-07-01", "unique_token_ids_sold_count_day": 68 },
+		{ "opening_date": "2021-06-30", "unique_token_ids_sold_count_day": 63 },
+		{ "opening_date": "2021-06-29", "unique_token_ids_sold_count_day": 74 },
+		{ "opening_date": "2021-06-28", "unique_token_ids_sold_count_day": 52 },
+		{ "opening_date": "2021-06-27", "unique_token_ids_sold_count_day": 83 },
+		{ "opening_date": "2021-06-26", "unique_token_ids_sold_count_day": 79 },
+		{ "opening_date": "2021-06-25", "unique_token_ids_sold_count_day": 91 },
+		{ "opening_date": "2021-06-24", "unique_token_ids_sold_count_day": 91 },
+		{ "opening_date": "2021-06-23", "unique_token_ids_sold_count_day": 95 },
+		{
+			"opening_date": "2021-06-22",
+			"unique_token_ids_sold_count_day": 113
+		},
+		{
+			"opening_date": "2021-06-21",
+			"unique_token_ids_sold_count_day": 240
+		},
+		{
+			"opening_date": "2021-06-20",
+			"unique_token_ids_sold_count_day": 413
+		},
+		{
+			"opening_date": "2021-06-19",
+			"unique_token_ids_sold_count_day": 405
+		},
+		{
+			"opening_date": "2021-06-18",
+			"unique_token_ids_sold_count_day": 283
+		},
+		{
+			"opening_date": "2021-06-17",
+			"unique_token_ids_sold_count_day": 206
+		},
+		{
+			"opening_date": "2021-06-16",
+			"unique_token_ids_sold_count_day": 154
+		},
+		{
+			"opening_date": "2021-06-15",
+			"unique_token_ids_sold_count_day": 186
+		},
+		{ "opening_date": "2021-06-14", "unique_token_ids_sold_count_day": 90 },
+		{
+			"opening_date": "2021-06-13",
+			"unique_token_ids_sold_count_day": 123
+		},
+		{ "opening_date": "2021-06-12", "unique_token_ids_sold_count_day": 76 },
+		{
+			"opening_date": "2021-06-11",
+			"unique_token_ids_sold_count_day": 119
+		},
+		{
+			"opening_date": "2021-06-10",
+			"unique_token_ids_sold_count_day": 120
+		},
+		{
+			"opening_date": "2021-06-09",
+			"unique_token_ids_sold_count_day": 151
+		},
+		{
+			"opening_date": "2021-06-08",
+			"unique_token_ids_sold_count_day": 252
+		},
+		{
+			"opening_date": "2021-06-07",
+			"unique_token_ids_sold_count_day": 487
+		},
+		{
+			"opening_date": "2021-06-06",
+			"unique_token_ids_sold_count_day": 327
+		},
+		{
+			"opening_date": "2021-06-05",
+			"unique_token_ids_sold_count_day": 247
+		},
+		{
+			"opening_date": "2021-06-04",
+			"unique_token_ids_sold_count_day": 113
+		},
+		{
+			"opening_date": "2021-06-03",
+			"unique_token_ids_sold_count_day": 170
+		},
+		{
+			"opening_date": "2021-06-02",
+			"unique_token_ids_sold_count_day": 259
+		},
+		{
+			"opening_date": "2021-06-01",
+			"unique_token_ids_sold_count_day": 485
+		},
+		{
+			"opening_date": "2021-05-31",
+			"unique_token_ids_sold_count_day": 455
+		},
+		{
+			"opening_date": "2021-05-30",
+			"unique_token_ids_sold_count_day": 583
+		},
+		{
+			"opening_date": "2021-05-29",
+			"unique_token_ids_sold_count_day": 144
+		},
+		{
+			"opening_date": "2021-05-28",
+			"unique_token_ids_sold_count_day": 129
+		},
+		{ "opening_date": "2021-05-27", "unique_token_ids_sold_count_day": 72 },
+		{ "opening_date": "2021-05-26", "unique_token_ids_sold_count_day": 55 },
+		{ "opening_date": "2021-05-25", "unique_token_ids_sold_count_day": 79 },
+		{ "opening_date": "2021-05-24", "unique_token_ids_sold_count_day": 93 },
+		{ "opening_date": "2021-05-23", "unique_token_ids_sold_count_day": 73 },
+		{ "opening_date": "2021-05-22", "unique_token_ids_sold_count_day": 69 },
+		{ "opening_date": "2021-05-21", "unique_token_ids_sold_count_day": 88 },
+		{ "opening_date": "2021-05-20", "unique_token_ids_sold_count_day": 83 },
+		{ "opening_date": "2021-05-19", "unique_token_ids_sold_count_day": 52 },
+		{ "opening_date": "2021-05-18", "unique_token_ids_sold_count_day": 80 },
+		{ "opening_date": "2021-05-17", "unique_token_ids_sold_count_day": 51 },
+		{ "opening_date": "2021-05-16", "unique_token_ids_sold_count_day": 85 },
+		{ "opening_date": "2021-05-15", "unique_token_ids_sold_count_day": 55 },
+		{ "opening_date": "2021-05-14", "unique_token_ids_sold_count_day": 43 },
+		{ "opening_date": "2021-05-13", "unique_token_ids_sold_count_day": 48 },
+		{ "opening_date": "2021-05-12", "unique_token_ids_sold_count_day": 41 },
+		{ "opening_date": "2021-05-11", "unique_token_ids_sold_count_day": 35 },
+		{ "opening_date": "2021-05-10", "unique_token_ids_sold_count_day": 59 },
+		{
+			"opening_date": "2021-05-09",
+			"unique_token_ids_sold_count_day": 116
+		},
+		{ "opening_date": "2021-05-08", "unique_token_ids_sold_count_day": 94 },
+		{
+			"opening_date": "2021-05-07",
+			"unique_token_ids_sold_count_day": 145
+		},
+		{
+			"opening_date": "2021-05-06",
+			"unique_token_ids_sold_count_day": 189
+		},
+		{
+			"opening_date": "2021-05-05",
+			"unique_token_ids_sold_count_day": 259
+		},
+		{
+			"opening_date": "2021-05-04",
+			"unique_token_ids_sold_count_day": 336
+		},
+		{
+			"opening_date": "2021-05-03",
+			"unique_token_ids_sold_count_day": 996
+		},
+		{
+			"opening_date": "2021-05-02",
+			"unique_token_ids_sold_count_day": 1534
+		},
+		{
+			"opening_date": "2021-05-01",
+			"unique_token_ids_sold_count_day": 1635
+		},
+		{ "opening_date": "2021-04-30", "unique_token_ids_sold_count_day": 1 }
+	],
+	"unique_token_ids_sold_count_alltime": 8555,
+	"unique_wallet_purchase_count_alltime": 9482
+}

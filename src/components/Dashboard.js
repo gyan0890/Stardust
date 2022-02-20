@@ -1,5 +1,5 @@
 import axios from 'axios'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Card from './Card'
 import {
 	LineChart,
@@ -12,6 +12,7 @@ import {
 	PieChart,
 	Cell,
 } from 'recharts'
+import defaultData from '../defaultResp.json'
 
 function Dashboard() {
 	let sentimentUrl = 'http://54.200.253.193:8080/sentiment/text?text='
@@ -27,10 +28,30 @@ function Dashboard() {
 	const [selectedChainId, setSelectedChainId] = useState(1)
 	const [lineChartData, setLineChartDate] = useState([])
 	const [pieChartData, setPieChartData] = useState([
-		{ sentiment: 'positive', value: 10 },
-		{ sentiment: 'negetive', value: 20 },
+		{ sentiment: 'positive', value: 67 },
+		{ sentiment: 'negetive', value: 33 },
 	])
 	const colors = ['#34d399', '#d13447']
+
+	useEffect(() => {
+		setCollectionName(defaultData.collection_name)
+		setSymbol(defaultData.collection_ticker_symbol)
+		setCurrFloor(defaultData.current_7day_floor_price)
+		setNoTokens(defaultData.number_nfts_in_collection)
+		setLineChartDate(defaultData.floor_price_hist.reverse())
+		// let pos = defaultData.classifications.filter(
+		// 	(obj) => obj.classification === 'Positive'
+		// ).length
+		// let neg = defaultData.classifications.filter(
+		// 	(obj) => obj.classification === 'Negative'
+		// ).length
+		// setPieChartData([
+		// 	{ sentiment: 'positive', value: pos },
+		// 	{ sentiment: 'negetive', value: neg },
+		// ])
+		console.log(defaultData)
+	}, [])
+
 	function submitForm(e) {
 		e.preventDefault()
 		let contractSearch = e.target[1].value
